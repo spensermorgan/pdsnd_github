@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-#import numpy as np
 """
 initialize main variables here to assist in error correction.
 """
