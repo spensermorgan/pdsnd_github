@@ -11,4 +11,4 @@ This project uses Python to analyze data provided in the Udacity PDSND course fo
 The code references .csv files containing bikeshare data however they are not included on this git since they are available elsewhere. Included files are bikeshare.py, .gitignore, and README.md
 
 ### Credits
-Credit where due to the materials provided by the Udacity PDSND program and suggested affiliate links. 
+Credit where due to the materials provided by the Udacity PDSND program and suggested affiliate links. Thank you for the helpful resources.
