@@ -222,7 +222,8 @@ def show_rawdata(df):
 
 def extrafun(df):
     """
-    Prompts the user if they would like to copy the data to the clipboard for further analysis
+    Prompts the user if they would like to copy the data to the clipboard for further analysis.
+    This can be helpful where adhoc analysis or drilling deeper into the data is needed beyond what this application allows. 
     """
     clipboard = input("Would you like to copy all the data to the clipboard for extra analysis fun? \nYou can copy this into Excel. \n yes or no: ").lower()
     if(clipboard == 'yes'):
