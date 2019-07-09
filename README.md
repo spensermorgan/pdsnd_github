@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Project created 20190610. Readme created 20190708.
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python to analyze data provided in the Udacity PDSND course for a bikeshare program. The purpose of this is to demonstrate the skills learned in the course pertaining to Python
 
 ### Files used
-Include the files used
+The code references .csv files containing bikeshare data however they are not included on this git since they are available elsewhere. Included files are bikeshare.py, .gitignore, and README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit where due to the materials provided by the Udacity PDSND program and suggested affiliate links. 
