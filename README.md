@@ -1,5 +1,5 @@
-### Date created
-Project created 20190610. Readme created 20190708.
+### Date(s) created
+Project created 20190610. Readme created 20190708. The project was created about a month before studying Git.
 
 ### Project Title
 Bikeshare Project
